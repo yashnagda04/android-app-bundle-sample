@@ -1,0 +1,3 @@
+include ':adminfeature'
+include ':app'
+rootProject.name = "Bundle Testing"
