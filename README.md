@@ -1,4 +1,3 @@
 # android-app-bundle-sample
 Sample using the android app bundle.
-![alt text](android-app-bundle-sample
-/design.jpg?raw=true "project screenshots")
+![alt text](https://github.com/yashnagda04/android-app-bundle-sample/blob/master/screenshot.png?raw=true)
